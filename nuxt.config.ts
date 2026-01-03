@@ -84,4 +84,8 @@ export default defineNuxtConfig({
   mcp: {
     name: "Docs template",
   },
+
+  app: {
+    baseURL: "/light-reflector/",
+  },
 });
