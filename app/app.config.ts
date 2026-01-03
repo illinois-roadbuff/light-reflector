@@ -26,10 +26,10 @@ export default defineAppConfig({
     colorMode: true,
     links: [
       {
-        icon: "i-simple-icons-github",
-        to: "https://github.com/nuxt-ui-templates/docs",
+        icon: "i-simple-icons-codeberg",
+        to: "https://codeberg.org/project-roadwork/light-reflector.git",
         target: "_blank",
-        "aria-label": "GitHub",
+        "aria-label": "Codeberg",
       },
     ],
   },
