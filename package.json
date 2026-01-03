@@ -1,10 +1,11 @@
 {
-  "name": "nuxt-ui-template-docs",
-  "private": false,
+  "name": "light-reflector-docs",
+  "private": true,
   "type": "module",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "test": "npx nuxt build --preset github_pages && npx serve .output/public ",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "lint": "eslint .",
