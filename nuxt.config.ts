@@ -87,6 +87,6 @@ export default defineNuxtConfig({
   },
 
   app: {
-    baseURL: "/light-reflector/",
+    baseURL: "/light-reflector-docs/",
   },
 });
