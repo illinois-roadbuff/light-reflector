@@ -33,6 +33,7 @@ export default defineNuxtConfig({
   compatibilityDate: "2024-07-11",
 
   nitro: {
+    preset: "github_pages",
     prerender: {
       routes: ["/"],
       crawlLinks: true,
