@@ -1,4 +1,4 @@
-# https://github.com/actions/deploy-pages#usage
+# https://github.com/actions/deploy-pages#usages
 name: Deploy to GitHub Pages
 
 on:
